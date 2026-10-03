@@ -1,4 +1,4 @@
-﻿# =============================================================================
+# =============================================================================
 #  Instalador Zebra ZT411 (203 dpi)  (driver ZDesigner/Zebra)
 #  Pacote de driver localizado em C:\ZDesigner
 #  (copie TODO o conteudo da pasta do driver ZDesigner para C:\ZDesigner)
